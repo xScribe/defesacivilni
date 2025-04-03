@@ -1,3 +1,7 @@
 {
-  "nivel": "observação"
+  "nivel": "alerta",
+  "temperatura": "TEMPERATURA\nC°31",
+  "umidade": "UMIDADE RELATIVA\nDO AR 36%",
+  "vento": "INTENSIDADE DO\nVENTO: MODERADO",
+  "aviso": "" 
 }

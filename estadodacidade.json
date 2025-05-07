@@ -3,5 +3,6 @@
   "temperatura": "TEMPERATURA\nC°29",
   "umidade": "UMIDADE RELATIVA\nDO AR 21%",
   "vento": "INTENSIDADE DO\nVENTO: MODERADO",
-  "aviso": "Possibilidade de Inundações, Deslizamentos e Alagamentos na cidade durante o período vigente do dia 04/04/2025 (Sexta-Feira) até o dia 06/04/2025 (Domingo).\n Em caso de Emergência LIGUE 199." 
+  "aviso": "Possibilidade de Inundações, Deslizamentos e Alagamentos na cidade durante o período vigente do dia 04/04/2025 (Sexta-Feira) até o dia 06/04/2025 (Domingo).\n Em caso de Emergência LIGUE 199.",
+  "nuvem": "ensolarado"
 }

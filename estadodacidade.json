@@ -4,5 +4,14 @@
   "umidade": "UMIDADE RELATIVA DO AR 21%",
   "vento": "INTENSIDADE DO VENTO: MODERADO",
   "aviso": "Possibilidade de Inundações, Deslizamentos e Alagamentos na cidade durante o período vigente do dia 04/04/2025 (Sexta-Feira) até o dia 06/04/2025 (Domingo).\n Em caso de Emergência LIGUE 199.",
-  "nuvem": "nublado"
+  "nuvem": "nublado",
+  "diames": "08 MAIO",
+  "temperaturaAmanha": "TEMPERATURA MÁX 31ºC / MÍN 26°C",
+  "umidadeAmanha": "UMIDADE RELATIVA DO AR 15%",
+  "ventoAmanha": "INTENSIDADE DO VENTO: FORTE",
+  "diamesAmanha": "09 MAIO",
+  "temperaturaDepois": "TEMPERATURA MÁX 32ºC / MÍN 28°C",
+  "umidadeDepois": "UMIDADE RELATIVA DO AR 18%",
+  "ventoDepois": "INTENSIDADE DO VENTO: FRACO",
+  "diamesDepois": "10 MAIO"
 }

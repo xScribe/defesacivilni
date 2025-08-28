@@ -1,5 +1,6 @@
 {
-  "nivel": "vigilância",
+  "nivel": "alerta",
+  "risco": "alto",
   "temperatura": "tempuratura máx 29ºc / mín 19°c",
   "umidade": "umidade relativa do ar 21%",
   "vento": "intensidade do vento: moderado",

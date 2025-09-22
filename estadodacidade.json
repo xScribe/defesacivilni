@@ -1,6 +1,9 @@
 {
   "nivel": "alerta",
   "risco": "alto",
+  "avisoTitulo": "Alerta Chuvas e Ventos Intensos",
+  "avisoDescricao": "Previsão de chuvas fortes acompanhadas de raios e rajadas de vento para as próximas 24 horas. Risco de alagamentos e deslizamentos.",
+  "orientacao": "• Evite áreas de alagamento e não atravesse ruas inundadas.• Procure abrigo em locais seguros e elevados.• Desligue aparelhos elétricos e o registro de água e gás.• Em caso de rachaduras em sua residência, saia imediatamente.",
   "temperatura": "tempuratura máx 29ºc / mín 19°c",
   "umidade": "umidade relativa do ar 21%",
   "vento": "intensidade do vento: moderado",

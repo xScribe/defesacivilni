@@ -1,5 +1,5 @@
 {
-  "nivel": "alerta",
+  "nivel": "vigilância",
   "risco": "alto",
   "avisoTitulo": "Alerta Chuvas e Ventos Intensos",
   "avisoDescricao": "Previsão de chuvas fortes acompanhadas de raios e rajadas de vento para as próximas 24 horas. Risco de alagamentos e deslizamentos.",
